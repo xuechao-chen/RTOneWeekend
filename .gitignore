@@ -1,0 +1,8 @@
+x64
+x86
+.vs
+Debug
+Release
+
+*.user
+*.log
